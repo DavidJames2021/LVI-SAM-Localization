@@ -4,4 +4,4 @@
 
 ## LVI-SAM-Localization demo
 
-![LVI-SAM-Localization-demo](.\doc\LVI-SAM-Localization-demo.gif)
+![LVI-SAM-Localization-demo](/gif/LVI-SAM-Localization-demo.gif)
